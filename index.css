@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+.container{
+    width: 85%;
+    color: aliceblue;
+    font-size: 2rem;
+    font-weight: bold;
+    margin: auto;
+    text-align: center;
+    height: 30vh;
+    
+}
+
+.BTN{
+    display: block;
+    margin: auto;
+    background-color: brown;
+    color: burlywood;
+    font-size: 2rem;
+    font-weight: bold;
+    border: 0;
+    -webkit-user-select: none;
+    user-select: none;
+    -ms-touch-select: none;
+    cursor: pointer;
+    outline: none;
+}
