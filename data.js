@@ -1,4 +1,3 @@
-//you can edit this file to add more contents
 //你可以修改这个文件来添加更多内容
 
 let amount=[
